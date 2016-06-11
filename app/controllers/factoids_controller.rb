@@ -1,0 +1,2 @@
+class FactoidsController < ApplicationController
+end
